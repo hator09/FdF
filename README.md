@@ -24,4 +24,4 @@ FdF is a 3D wireframe renderer written in C using the MiniLibX graphical library
 
 - Real-time user input with keyboard controls
 
-![Demo]([https://i.imgur.com/tu-gif.gif](https://imgur.com/a/sWFgyHY))
+![Demo](https://i.imgur.com/xw9meKk.gif)
