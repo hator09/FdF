@@ -3,6 +3,9 @@
 ## 🗺️ FdF – Wireframe Map Renderer
 FdF is a 3D wireframe renderer written in C using the MiniLibX graphical library. It reads a map from a file, where each number represents a height value (z-axis), and displays a 3D projection of that map in a 2D window.
 
+![Demo](./fdf1.png)
+![Demo](./fdf2.png)
+
 ### This project is part of the 42 School Common Core curriculum and focuses on:
 
 - Reading and parsing structured input data.
